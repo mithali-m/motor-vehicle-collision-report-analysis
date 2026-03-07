@@ -1,0 +1,104 @@
+{
+  "itemId" : "_AvYgwO61Ee6WMeIDZmcTYA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_jBNyQO61Ee6WMeIDZmcTYA",
+    "parameterList" : [ {
+      "id" : "_jBpQEe61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_File"
+    }, {
+      "id" : "_jBpQEu61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_Encoding"
+    }, {
+      "id" : "_jBpQE-61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_DecimalSeparator"
+    }, {
+      "id" : "_jBpQFO61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_LastColumn"
+    }, {
+      "id" : "_jBpQFe61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_ThousandSeparator"
+    }, {
+      "id" : "_jBpQFu61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_Header"
+    }, {
+      "id" : "_jBpQF-61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_FirstColumn"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_oYQH0O5GEe6r8oNTLWEwAg",
+    "parameterList" : [ {
+      "id" : "_oY_Hoe5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Server"
+    }, {
+      "id" : "_oY_Hp-5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Port"
+    }, {
+      "id" : "_oY_Hpu5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Database"
+    }, {
+      "id" : "_oY_HpO5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Password"
+    }, {
+      "id" : "_oY_Ho-5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_AdditionalParams"
+    }, {
+      "id" : "_oY_Hpe5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Schema"
+    }, {
+      "id" : "_oY_Hou5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Login"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_oYQH0O5GEe6r8oNTLWEwAg",
+    "parameterList" : [ {
+      "id" : "_T9wj0e-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Server"
+    }, {
+      "id" : "_T9wj1--qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Port"
+    }, {
+      "id" : "_T9wj1u-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Database"
+    }, {
+      "id" : "_T9wj1O-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Password"
+    }, {
+      "id" : "_T9wj0--qEe69cYee0KMqwA",
+      "name" : "azrue_sql_AdditionalParams"
+    }, {
+      "id" : "_T9wj1e-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Schema"
+    }, {
+      "id" : "_T9wj0u-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Login"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_jBNyQO61Ee6WMeIDZmcTYA",
+    "parameterList" : [ {
+      "id" : "_jBpQEe61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_File"
+    }, {
+      "id" : "_jBpQEu61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_Encoding"
+    }, {
+      "id" : "_jBpQE-61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_DecimalSeparator"
+    }, {
+      "id" : "_jBpQFO61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_LastColumn"
+    }, {
+      "id" : "_jBpQFe61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_ThousandSeparator"
+    }, {
+      "id" : "_jBpQFu61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_Header"
+    }, {
+      "id" : "_jBpQF-61Ee6WMeIDZmcTYA",
+      "name" : "contrib_factor_mapping_FirstColumn"
+    } ]
+  } ]
+}

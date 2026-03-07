@@ -1,0 +1,54 @@
+{
+  "itemId" : "_AcUv8POZEe6iSuycJVli9g",
+  "contextList" : [ {
+    "contextName" : "dev",
+    "repoId" : "_oYQH0O5GEe6r8oNTLWEwAg",
+    "parameterList" : [ {
+      "id" : "_T9wj0--qEe69cYee0KMqwA",
+      "name" : "azrue_sql_AdditionalParams"
+    }, {
+      "id" : "_T9wj1u-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Database"
+    }, {
+      "id" : "_T9wj0u-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Login"
+    }, {
+      "id" : "_T9wj1O-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Password"
+    }, {
+      "id" : "_T9wj1--qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Port"
+    }, {
+      "id" : "_T9wj1e-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Schema"
+    }, {
+      "id" : "_T9wj0e-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_oYQH0O5GEe6r8oNTLWEwAg",
+    "parameterList" : [ {
+      "id" : "_oY_Ho-5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_AdditionalParams"
+    }, {
+      "id" : "_oY_Hpu5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Database"
+    }, {
+      "id" : "_oY_Hou5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Login"
+    }, {
+      "id" : "_oY_HpO5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Password"
+    }, {
+      "id" : "_oY_Hp-5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Port"
+    }, {
+      "id" : "_oY_Hpe5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Schema"
+    }, {
+      "id" : "_oY_Hoe5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Server"
+    } ]
+  } ]
+}

@@ -1,0 +1,29 @@
+{
+  "itemId" : "_PvKHcOuvEe6EQui9Ya4XWg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_oYQH0O5GEe6r8oNTLWEwAg",
+    "parameterList" : [ {
+      "id" : "_oY_Hoe5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Server"
+    }, {
+      "id" : "_oY_Hou5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Login"
+    }, {
+      "id" : "_oY_Ho-5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_AdditionalParams"
+    }, {
+      "id" : "_oY_HpO5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Password"
+    }, {
+      "id" : "_oY_Hpe5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Schema"
+    }, {
+      "id" : "_oY_Hpu5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Database"
+    }, {
+      "id" : "_oY_Hp-5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Port"
+    } ]
+  } ]
+}

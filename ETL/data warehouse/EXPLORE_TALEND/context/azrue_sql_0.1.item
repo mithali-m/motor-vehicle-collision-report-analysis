@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Default" xmi:id="_oY_HoO5GEe6r8oNTLWEwAg">
+    <contextParameter comment="" name="azrue_sql_Server" prompt="azrue_sql_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="team06.database.windows.net" xmi:id="_oY_Hoe5GEe6r8oNTLWEwAg"/>
+    <contextParameter comment="" name="azrue_sql_Login" prompt="azrue_sql_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sqladmin" xmi:id="_oY_Hou5GEe6r8oNTLWEwAg"/>
+    <contextParameter comment="" name="azrue_sql_AdditionalParams" prompt="azrue_sql_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_oY_Ho-5GEe6r8oNTLWEwAg"/>
+    <contextParameter comment="" name="azrue_sql_Password" prompt="azrue_sql_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:9X8oEUky5WkjkS0F84mKoe44tZnUWmAIjspPfPEXr7p3UqW8cSQ=" xmi:id="_oY_HpO5GEe6r8oNTLWEwAg"/>
+    <contextParameter comment="" name="azrue_sql_Schema" prompt="azrue_sql_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_oY_Hpe5GEe6r8oNTLWEwAg"/>
+    <contextParameter comment="" name="azrue_sql_Database" prompt="azrue_sql_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="damg" xmi:id="_oY_Hpu5GEe6r8oNTLWEwAg"/>
+    <contextParameter comment="" name="azrue_sql_Port" prompt="azrue_sql_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_oY_Hp-5GEe6r8oNTLWEwAg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="dev" xmi:id="_T9wj0O-qEe69cYee0KMqwA">
+    <contextParameter comment="" name="azrue_sql_Server" prompt="azrue_sql_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost" xmi:id="_T9wj0e-qEe69cYee0KMqwA"/>
+    <contextParameter comment="" name="azrue_sql_Login" prompt="azrue_sql_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="workshop" xmi:id="_T9wj0u-qEe69cYee0KMqwA"/>
+    <contextParameter comment="" name="azrue_sql_AdditionalParams" prompt="azrue_sql_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_T9wj0--qEe69cYee0KMqwA"/>
+    <contextParameter comment="" name="azrue_sql_Password" prompt="azrue_sql_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:DiWz5k5xjadNVcgxFtIOneaomu6wz6iuk+jG9QDk6sj9IJA3" xmi:id="_T9wj1O-qEe69cYee0KMqwA"/>
+    <contextParameter comment="" name="azrue_sql_Schema" prompt="azrue_sql_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_T9wj1e-qEe69cYee0KMqwA"/>
+    <contextParameter comment="" name="azrue_sql_Database" prompt="azrue_sql_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="finalproject" xmi:id="_T9wj1u-qEe69cYee0KMqwA"/>
+    <contextParameter comment="" name="azrue_sql_Port" prompt="azrue_sql_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_T9wj1--qEe69cYee0KMqwA"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_6e2d262d-ad01-4d3f-9b0e-b5c947c4ff54"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>LkL0Zd0J6zw5GyxQebMy7+Qcue+FzzDNFuYDiANh/25r6yBMzTAn7hRpYQE9y2pLEzOBqgl728Aq&#13;
+jhivBgkzuA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_db58cd0b-b188-4168-9ca5-21f93aad2db2"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ewyX9AUen0rem6/m2nlKhqtllJwqvAsYHjrJIKEO1M045MVyfwsqCglDNqHgyDMPH6x92UnPMuuM&#13;
+XSqIXjhJ8g==</DigestValue></Reference></SignedInfo><SignatureValue>o/799R5fSd7/TyF3t2uvFLxvxLYciGHB3cMK9fKlwjTaqonQQn0ahCrhP2vsDkJHFw/ax2DJr51H&#13;
+EEs9LrOtYNh1lCl5zWmc52dmkeKIuVhtgnUzcd1k5UFS3YQdg2fiM4ndIyo+W4IljqbSPkF57jk3&#13;
+EVzK/QGfltTM3xRpvIYGYFCWfuFt1Kv25ZvT26lqdHAJLXPI+Hx1nGe37O3zj8+qmRqdKBmmWVrY&#13;
++LmFqe4/LChFtXttAcpV3pxKlVVVb0PMMt0S+QPD9P4sCP6srXepgmmjmLWvkDlghzFCAa2vhEEa&#13;
+mVq47MPI6kCsSL/mqL9Hq4ViaAtdL2OrkOmIYQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_db58cd0b-b188-4168-9ca5-21f93aad2db2" Target="#_6e2d262d-ad01-4d3f-9b0e-b5c947c4ff54"><Timestamp>2024-03-31 22:02:05</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

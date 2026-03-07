@@ -1,0 +1,142 @@
+{
+  "itemId" : "_I9_dAOusEe6JLsX-I__B6Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_xvHtMOusEe6JLsX-I__B6Q",
+    "parameterList" : [ {
+      "id" : "_xvh84eusEe6JLsX-I__B6Q",
+      "name" : "src_chicago_file_RowSeparator"
+    }, {
+      "id" : "_xvh84uusEe6JLsX-I__B6Q",
+      "name" : "src_chicago_file_Encoding"
+    }, {
+      "id" : "_xvh84-usEe6JLsX-I__B6Q",
+      "name" : "src_chicago_file_FieldSeparator"
+    }, {
+      "id" : "_xvh85OusEe6JLsX-I__B6Q",
+      "name" : "src_chicago_file_File"
+    }, {
+      "id" : "_xvh85eusEe6JLsX-I__B6Q",
+      "name" : "src_chicago_file_Header"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_c83pcOuwEe6JLsX-I__B6Q",
+    "parameterList" : [ {
+      "id" : "_c9QrAuuwEe6JLsX-I__B6Q",
+      "name" : "tgt_azure_sql_AdditionalParams"
+    }, {
+      "id" : "_c9QrBuuwEe6JLsX-I__B6Q",
+      "name" : "tgt_azure_sql_Password"
+    }, {
+      "id" : "_c9QrB-uwEe6JLsX-I__B6Q",
+      "name" : "tgt_azure_sql_Database"
+    }, {
+      "id" : "_c9QrA-uwEe6JLsX-I__B6Q",
+      "name" : "tgt_azure_sql_Login"
+    }, {
+      "id" : "_c9QrAeuwEe6JLsX-I__B6Q",
+      "name" : "tgt_azure_sql_Port"
+    }, {
+      "id" : "_c9QrBeuwEe6JLsX-I__B6Q",
+      "name" : "tgt_azure_sql_Server"
+    }, {
+      "id" : "_c9QrBOuwEe6JLsX-I__B6Q",
+      "name" : "tgt_azure_sql_Schema"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_oYQH0O5GEe6r8oNTLWEwAg",
+    "parameterList" : [ {
+      "id" : "_oY_Hoe5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Server"
+    }, {
+      "id" : "_oY_Hp-5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Port"
+    }, {
+      "id" : "_oY_Hpu5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Database"
+    }, {
+      "id" : "_oY_HpO5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Password"
+    }, {
+      "id" : "_oY_Ho-5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_AdditionalParams"
+    }, {
+      "id" : "_oY_Hpe5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Schema"
+    }, {
+      "id" : "_oY_Hou5GEe6r8oNTLWEwAg",
+      "name" : "azrue_sql_Login"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_xvHtMOusEe6JLsX-I__B6Q",
+    "parameterList" : [ {
+      "id" : "_bkegwe-uEe69cYee0KMqwA",
+      "name" : "src_chicago_file_RowSeparator"
+    }, {
+      "id" : "_bkegwu-uEe69cYee0KMqwA",
+      "name" : "src_chicago_file_Encoding"
+    }, {
+      "id" : "_bkegw--uEe69cYee0KMqwA",
+      "name" : "src_chicago_file_FieldSeparator"
+    }, {
+      "id" : "_bkegxO-uEe69cYee0KMqwA",
+      "name" : "src_chicago_file_File"
+    }, {
+      "id" : "_bkegxe-uEe69cYee0KMqwA",
+      "name" : "src_chicago_file_Header"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_c83pcOuwEe6JLsX-I__B6Q",
+    "parameterList" : [ {
+      "id" : "_n7pHMu-tEe69cYee0KMqwA",
+      "name" : "tgt_azure_sql_AdditionalParams"
+    }, {
+      "id" : "_n7pHNu-tEe69cYee0KMqwA",
+      "name" : "tgt_azure_sql_Password"
+    }, {
+      "id" : "_n7pHN--tEe69cYee0KMqwA",
+      "name" : "tgt_azure_sql_Database"
+    }, {
+      "id" : "_n7pHM--tEe69cYee0KMqwA",
+      "name" : "tgt_azure_sql_Login"
+    }, {
+      "id" : "_n7pHMe-tEe69cYee0KMqwA",
+      "name" : "tgt_azure_sql_Port"
+    }, {
+      "id" : "_n7pHNe-tEe69cYee0KMqwA",
+      "name" : "tgt_azure_sql_Server"
+    }, {
+      "id" : "_n7pHNO-tEe69cYee0KMqwA",
+      "name" : "tgt_azure_sql_Schema"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_oYQH0O5GEe6r8oNTLWEwAg",
+    "parameterList" : [ {
+      "id" : "_T9wj0e-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Server"
+    }, {
+      "id" : "_T9wj1--qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Port"
+    }, {
+      "id" : "_T9wj1u-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Database"
+    }, {
+      "id" : "_T9wj1O-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Password"
+    }, {
+      "id" : "_T9wj0--qEe69cYee0KMqwA",
+      "name" : "azrue_sql_AdditionalParams"
+    }, {
+      "id" : "_T9wj1e-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Schema"
+    }, {
+      "id" : "_T9wj0u-qEe69cYee0KMqwA",
+      "name" : "azrue_sql_Login"
+    } ]
+  } ]
+}
