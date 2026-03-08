@@ -32,3 +32,13 @@ Power BI & Tableau Dashboards
 ```
 
 The pipeline integrates heterogeneous datasets into a unified dimensional data model to support advanced analytics and reporting.
+
+## Data Sources
+
+Crash datasets were collected from official public data portals for three major cities.
+
+### Chicago
+
+Chicago crash data provides detailed information on traffic crashes within city limits under the jurisdiction of the Chicago Police Department. The dataset contains information collected through the electronic crash reporting system and includes crash parameters such as weather conditions, street conditions, and contributing factors. 
+
+Source: [Chicago](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes)
