@@ -1,4 +1,4 @@
-# motor-vehicle-collision-report-analysis
+# Motor Vehicle Collision Data Warehouse & Analytics
 ## Project Overview
 
 This project focuses on building an integrated data warehouse and analytics platform for motor vehicle collision data across three major US cities: Chicago, New York, and Austin.
@@ -225,12 +225,12 @@ These dashboards allow users to explore crash patterns and identify key risk fac
 
 The integrated data warehouse enables analysis such as:
 
-        1. Cities with the highest crash frequency<br>
-        2. Most common contributing factors<br>
-        3. Crash distribution by time of day<br>
-        4. Injury vs fatality trends<br>
-        5. Vehicle type involvement in crashes<br>
-        6. Geographic crash hotspots
+1. Cities with the highest crash frequency
+2. Most common contributing factors
+3. Crash distribution by time of day
+4. Injury vs fatality trends
+5. Vehicle type involvement in crashes
+6. Geographic crash hotspots
 
 ## Repository Structure
 
@@ -261,8 +261,8 @@ motor-vehicle-collision-report-analysis
 
 Possible future improvements include:
 
-        Real-time crash data ingestion<br>
-        Geospatial crash hotspot detection<br>
-        Machine learning models for crash prediction<br>
-        Streaming pipelines using Kafka<br>
+        Real-time crash data ingestion <br>
+        Geospatial crash hotspot detection <br>
+        Machine learning models for crash prediction <br>
+        Streaming pipelines using Kafka <br>
         Automated ETL orchestration
