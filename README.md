@@ -122,11 +122,11 @@ Several data quality issues were identified and resolved during transformation.
 
 Examples include:
 
-<b>Missing street names</b> - Street numbers and street names were concatenated to form a consistent address format.<br>
-<b>Missing coordinates</b> - Latitude and longitude fields containing blank values were replaced with default values.<br>
-<b>Missing street references</b> - In New York data, missing On_Street_Name values were replaced with Off_Street_Name.<br>
-<b>Contributing factor columns</b> - Blank contributing factor values were standardized to null values.<br>
-<b>Derived attributes</b> - Crash time was extracted from timestamp columns for time-based analysis.
+- <b>Missing street names</b> - Street numbers and street names were concatenated to form a consistent address format.<br>
+- <b>Missing coordinates</b> - Latitude and longitude fields containing blank values were replaced with default values.<br>
+- <b>Missing street references</b> - In New York data, missing On_Street_Name values were replaced with Off_Street_Name.<br>
+- <b>Contributing factor columns</b> - Blank contributing factor values were standardized to null values.<br>
+- <b>Derived attributes</b> - Crash time was extracted from timestamp columns for time-based analysis.
 
 These transformations ensured consistent and standardized data across all cities.
 
@@ -140,30 +140,30 @@ The model contains:
 crash_fct
 
 This table stores crash-level metrics including:<br>
-        crash date<br>
-        crash time<br>
-        number of injuries<br>
-        fatalities<br>
-        vehicle involvement<br>
-        crash location
+        - crash date<br>
+        - crash time<br>
+        - number of injuries<br>
+        - fatalities<br>
+        - vehicle involvement<br>
+        - crash location
 
 ### Dimension Tables
 
 The warehouse includes multiple dimensions to support analytical queries:<br>
-        date_dim<br>
-        time_dim<br>
-        address_dim<br>
-        contrib_factor_dim<br>
-        source_dim<br>
-        vehicle_type_dim
+        - date_dim<br>
+        - time_dim<br>
+        - address_dim<br>
+        - contrib_factor_dim<br>
+        - source_dim<br>
+        - vehicle_type_dim
 
 These dimensions provide contextual information for crash events.
 
 ### Bridge Tables
 
 To support many-to-many relationships:<br>
-        most_common_factor_bdg<br>
-        vehicle_involved_bdg
+        - most_common_factor_bdg<br>
+        - vehicle_involved_bdg
 
 Bridge tables allow multiple contributing factors or vehicles to be associated with a single crash event.
 
@@ -177,10 +177,10 @@ Each record represents a single crash occurrence.
 A Source-to-Target Mapping (STTM) document was created to support governance and transparency.
 
 This mapping defines:<br>
-        source fields<br>
-        transformation rules<br>
-        target schema columns<br>
-        ETL workflow mapping
+        - source fields<br>
+        - transformation rules<br>
+        - target schema columns<br>
+        - ETL workflow mapping
 
 This provides complete data lineage documentation, showing how raw source fields are transformed and stored in the warehouse.
 
