@@ -66,3 +66,21 @@ Source: [Austin](https://data.austintexas.gov/Transportation-and-Mobility/Austin
 | Visualization        | Power BI, Tableau           |
 | Data Sources         | Public Government Open Data |
 
+## Data Preparation
+### Data Acquisition
+
+Flat files were downloaded from the respective city government portals. The raw datasets contain crash records with attributes such as:
+
+crash identifiers
+
+time and date
+
+street names
+
+geographic coordinates
+
+injury counts
+
+vehicle involvement
+
+contributing factors
