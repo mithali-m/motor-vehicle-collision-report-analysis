@@ -140,12 +140,12 @@ The model contains:
 crash_fct
 
 This table stores crash-level metrics including:<br>
-        - crash date<br>
-        - crash time<br>
-        - number of injuries<br>
-        - fatalities<br>
-        - vehicle involvement<br>
-        - crash location
+- crash date<br>
+- crash time<br>
+- number of injuries<br>
+- fatalities<br>
+- vehicle involvement<br>
+- crash location
 
 ### Dimension Tables
 
