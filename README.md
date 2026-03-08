@@ -42,3 +42,27 @@ Crash datasets were collected from official public data portals for three major 
 Chicago crash data provides detailed information on traffic crashes within city limits under the jurisdiction of the Chicago Police Department. The dataset contains information collected through the electronic crash reporting system and includes crash parameters such as weather conditions, street conditions, and contributing factors. 
 
 Source: [Chicago](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes)
+
+### New York
+
+The New York dataset contains records of police-reported motor vehicle collisions. Each record represents a single crash event and includes details such as crash location, injury counts, vehicle involvement, and contributing factors. Reports are generated through the official MV104-AN police crash reporting system. 
+
+Source: [New York](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes)
+
+### Austin
+
+Austin crash data is obtained from the Texas Department of Transportation Crash Record Information System (CRIS). The dataset includes crash-level records reported by law enforcement agencies across the state. 
+
+Source: [Austin](https://data.austintexas.gov/Transportation-and-Mobility/Austin-Crash-Report-Data)
+
+## Technology Stack
+| Category             | Tools                       |
+| -------------------- | --------------------------- |
+| ETL                  | Talend                      |
+| Data Warehouse       | Azure SQL                   |
+| Data Profiling       | YData Profiling             |
+| Data Validation      | SQL                         |
+| Dimensional Modeling | ER/Studio                   |
+| Visualization        | Power BI, Tableau           |
+| Data Sources         | Public Government Open Data |
+
