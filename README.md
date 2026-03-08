@@ -261,8 +261,8 @@ motor-vehicle-collision-report-analysis
 
 Possible future improvements include:
 
-Real-time crash data ingestion <br>
-Geospatial crash hotspot detection <br>
-Machine learning models for crash prediction <br>
-Streaming pipelines using Kafka <br>
-Automated ETL orchestration
+1. Real-time crash data ingestion <br>
+2. Geospatial crash hotspot detection <br>
+3. Machine learning models for crash prediction <br>
+4. Streaming pipelines using Kafka <br>
+5. Automated ETL orchestration
