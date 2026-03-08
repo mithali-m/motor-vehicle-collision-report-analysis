@@ -85,10 +85,10 @@ Before ETL development, data profiling was conducted using YData Profiling to un
 
 Profiling helped identify:
 
-missing values<br>
-duplicate records<br>
-column distributions<br>
-data inconsistencies
+- missing values<br>
+- duplicate records<br>
+- column distributions<br>
+- data inconsistencies
 
 Key findings included:
 
@@ -102,11 +102,11 @@ Raw datasets were ingested into a staging layer in Azure SQL using Talend ETL jo
 
 The staging process involved:
 
-loading raw TSV data<br>
-column filtering<br>
-date format conversion<br>
-data cleansing<br>
-adding metadata columns (Create_Date)
+- loading raw TSV data<br>
+- column filtering<br>
+- date format conversion<br>
+- data cleansing<br>
+- adding metadata columns (Create_Date)
 
 Each dataset was loaded into staging tables:
 
