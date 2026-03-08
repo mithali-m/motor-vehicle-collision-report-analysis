@@ -28,6 +28,7 @@ Dimensional Data Warehouse
         ↓
 Analytics Layer
         ↓
-Power BI & Tableau Dashboards ```
+Power BI & Tableau Dashboards
+```
 
 The pipeline integrates heterogeneous datasets into a unified dimensional data model to support advanced analytics and reporting.
