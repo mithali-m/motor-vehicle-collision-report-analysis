@@ -71,13 +71,13 @@ Source: [Austin](https://data.austintexas.gov/Transportation-and-Mobility/Austin
 
 Flat files were downloaded from the respective city government portals. The raw datasets contain crash records with attributes such as:
 
-crash identifiers<br>
-time and date<br>
-street names<br>
-geographic coordinates<br>
-injury counts<br>
-vehicle involvement<br>
-contributing factors
+- crash identifiers<br>
+- time and date<br>
+- street names<br>
+- geographic coordinates<br>
+- injury counts<br>
+- vehicle involvement<br>
+- contributing factors
 
 ## Data Profiling
 
