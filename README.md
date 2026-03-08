@@ -150,20 +150,20 @@ This table stores crash-level metrics including:<br>
 ### Dimension Tables
 
 The warehouse includes multiple dimensions to support analytical queries:<br>
-        - date_dim<br>
-        - time_dim<br>
-        - address_dim<br>
-        - contrib_factor_dim<br>
-        - source_dim<br>
-        - vehicle_type_dim
+- date_dim<br>
+- time_dim<br>
+- address_dim<br>
+- contrib_factor_dim<br>
+- source_dim<br>
+- vehicle_type_dim                      
 
 These dimensions provide contextual information for crash events.
 
 ### Bridge Tables
 
 To support many-to-many relationships:<br>
-        - most_common_factor_bdg<br>
-        - vehicle_involved_bdg
+- most_common_factor_bdg<br>
+- vehicle_involved_bdg
 
 Bridge tables allow multiple contributing factors or vehicles to be associated with a single crash event.
 
@@ -177,10 +177,10 @@ Each record represents a single crash occurrence.
 A Source-to-Target Mapping (STTM) document was created to support governance and transparency.
 
 This mapping defines:<br>
-        - source fields<br>
-        - transformation rules<br>
-        - target schema columns<br>
-        - ETL workflow mapping
+- source fields<br>
+- transformation rules<br>
+- target schema columns<br>
+- ETL workflow mapping
 
 This provides complete data lineage documentation, showing how raw source fields are transformed and stored in the warehouse.
 
@@ -189,11 +189,11 @@ This provides complete data lineage documentation, showing how raw source fields
 Multiple SQL validation checks were performed to ensure data integrity.
 
 Validation steps included:<br>
-        row count verification<br>
-        null value checks<br>
-        primary key uniqueness validation<br>
-        dimension-to-fact relationship validation<br>
-        referential integrity checks
+- row count verification<br>
+- null value checks<br>
+- primary key uniqueness validation<br>
+- dimension-to-fact relationship validation<br>
+- referential integrity checks
 
 These validations ensured that the warehouse data accurately reflects the source datasets.
 
@@ -206,18 +206,18 @@ Two BI tools were used:
 ### Tableau
 
 Tableau dashboards were created to visualize:<br>
-        crash distribution by city<br>
-        contributing factors<br>
-        injury statistics<br>
-        crash frequency trends
+- crash distribution by city<br>
+- contributing factors<br>
+- injury statistics<br>
+- crash frequency trends
 
 ### Power BI
 
 Power BI dashboards provided:<br>
-        interactive crash location insights<br>
-        time-based crash patterns<br>
-        vehicle type involvement analysis<br>
-        fatality and injury comparisons across cities
+- interactive crash location insights<br>
+- time-based crash patterns<br>
+- vehicle type involvement analysis<br>
+- fatality and injury comparisons across cities
 
 These dashboards allow users to explore crash patterns and identify key risk factors.
 
