@@ -213,6 +213,8 @@ Tableau dashboards were created to visualize:<br>
 
 ### Power BI
 
+!<BI dashboard> https://app.powerbi.com/groups/me/reports/c5dc5f91-f5e0-454b-a10d-a482c7d5d18b/ReportSectiond96143c60350a82ecd8a?experience=power-bi
+
 Power BI dashboards provided:<br>
 - interactive crash location insights<br>
 - time-based crash patterns<br>
