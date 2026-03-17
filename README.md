@@ -205,6 +205,8 @@ Two BI tools were used:
 
 ### Tableau
 
+[Tableau dashboard] https://public.tableau.com/app/profile/mithali.manjunath/viz/Crash_Report_Analysis/12A2B
+
 Tableau dashboards were created to visualize:<br>
 - crash distribution by city<br>
 - contributing factors<br>
@@ -213,7 +215,7 @@ Tableau dashboards were created to visualize:<br>
 
 ### Power BI
 
-!<BI dashboard> https://app.powerbi.com/groups/me/reports/c5dc5f91-f5e0-454b-a10d-a482c7d5d18b/ReportSectiond96143c60350a82ecd8a?experience=power-bi
+[BI dashboard] https://app.powerbi.com/groups/me/reports/c5dc5f91-f5e0-454b-a10d-a482c7d5d18b/ReportSectiond96143c60350a82ecd8a?experience=power-bi
 
 Power BI dashboards provided:<br>
 - interactive crash location insights<br>
